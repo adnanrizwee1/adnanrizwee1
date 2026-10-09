@@ -11,7 +11,7 @@ I'm a backend developer from Kolkata, India, with **5 years of experience** buil
 #### 🛠️ Tech Stack
 **Backend:** Python · Django · Django REST Framework · Celery · Redis · Django Channels · JWT · Gunicorn  
 **Databases:** PostgreSQL · MySQL · MongoDB · ElasticSearch  
-**AI / ML:** OpenAI API · LangChain · FAISS · Pinecone · Pandas · NumPy  
+**AI / ML:** · AI/ML · OpenAI API · LangChain · FAISS · Pinecone · Pandas · NumPy 
 **ERP:** Odoo  
 **DevOps & Cloud:** Docker · Kubernetes · Jenkins · AWS · CI/CD  
 **Frontend:** ReactJS · JavaScript
